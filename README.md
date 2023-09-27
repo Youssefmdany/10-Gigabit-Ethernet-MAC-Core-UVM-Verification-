@@ -14,13 +14,13 @@
 ![10Gbps-Ethernet-Physical-Layer](https://github.com/Youssefmdany/10-Gigabit-Ethernet-MAC-Core-UVM-Verification-/assets/110913003/089533cc-81b1-4745-ba6b-7a647083d7ec)
 
 ### 10 Gigabit Ethernet MediaAccess Controller (MAC)
-### it’s a hardware component that is responsible for managing thecommunication between a network interface card (NIC) ### and the physical Ethernet network at a data rate of 10 gigabits per second(Gbps).
+### it’s a hardware component that is responsible for managing the communication between a network interface card (NIC) ### and the physical Ethernet network at a data rate of 10 gigabits per second(Gbps).
 
 
 
 
 ### 10 Gigabit EthernetPhysical Layer (PHY)
-### The PHY layer is responsible for the physical signaling andtransmission of data over the physical medium. It interfaces withthe MAC layer above and the physical medium below, translatingdigital signals into analog signals for transmission and vice
+### The PHY layer is responsible for the physical signaling and transmission of data over the physical medium. It interfaces withthe MAC layer above and the physical medium below, translating digital signals into analog signals for transmission and vice
 
 
 
