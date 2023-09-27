@@ -14,7 +14,7 @@
 ![10Gbps-Ethernet-Physical-Layer](https://github.com/Youssefmdany/10-Gigabit-Ethernet-MAC-Core-UVM-Verification-/assets/110913003/089533cc-81b1-4745-ba6b-7a647083d7ec)
 
 ### 10 Gigabit Ethernet MediaAccess Controller (MAC)
-### it’s a hardware component that is responsible for managing thecommunication between a network interface card (NIC) ### and thephysical Ethernet network at a data rate of 10 gigabits per second(Gbps).
+### it’s a hardware component that is responsible for managing thecommunication between a network interface card (NIC) ### and the physical Ethernet network at a data rate of 10 gigabits per second(Gbps).
 
 
 
