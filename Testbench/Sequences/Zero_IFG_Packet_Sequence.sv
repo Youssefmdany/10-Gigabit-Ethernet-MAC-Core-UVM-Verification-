@@ -44,11 +44,11 @@ class Zero_IFG_Packet_Sequence extends Base_Sequence;
 		
 		if(!(Bringup_packet.randomize() with {
 		
-		                                      reset_156m25_n==1;
-	                                     	  reset_xgmii_rx_n==1;
-	                                     	  wb_rst_i==0;
+		                                      								  reset_156m25_n==1;
+	                                     	  								  reset_xgmii_rx_n==1;
+	                                     	 								  wb_rst_i==0;
 														  reset_xgmii_tx_n==1;
-                                                  ether_len inside {16'h86dd,16'h0800,16'h8137,16'h0806};
+                                                 								  ether_len inside {16'h86dd,16'h0800,16'h8137,16'h0806};
 														  Loaded_Data.size() inside {[46:1500]};
 														  inter_packet_gap==0; 
 
