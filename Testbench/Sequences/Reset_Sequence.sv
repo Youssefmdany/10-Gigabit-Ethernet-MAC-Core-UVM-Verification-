@@ -43,7 +43,7 @@ class Reset_Sequence extends Base_Sequence;
 		
 		
 		if(!(Reset_packet.randomize() with {  
-		                                      reset_156m25_n==0;
+		                                  							          reset_156m25_n==0;
 														  reset_xgmii_rx_n==0;
 														  reset_xgmii_tx_n==0;
 														  wb_rst_i==1;
